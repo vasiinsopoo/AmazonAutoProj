@@ -1,0 +1,5 @@
+com\ecom\testUtils\UtilsClass.class
+com\ecom\amazon\login\HomepageTest.class
+com\ecom\testBase\Initializer.class
+com\ecom\amazon\login\LoginTest.class
+com\ecom\amazon\pageobjects\Homepage_PO.class
